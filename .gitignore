@@ -1,2 +1,5 @@
 # dependencies
-../tailwind-vainalla-project/node_modules
+node_modules
+
+# added build specific files
+tailwind-vanilla-project/public
